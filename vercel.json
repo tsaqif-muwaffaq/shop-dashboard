@@ -3,7 +3,6 @@
   "installCommand": "npm ci --ignore-scripts",
   "outputDirectory": "dist",
   "framework": "vite",
-  "nodeVersion": "20.x",
   "env": {
     "CI": "false"
   }
