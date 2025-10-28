@@ -1,6 +1,10 @@
 {
-  "buildCommand": "npm run build",
+  "buildCommand": "npm rebuild esbuild && npm rebuild rollup && npm run build",
+  "installCommand": "npm ci --ignore-scripts",
   "outputDirectory": "dist",
-  "installCommand": "npm install",
-  "framework": "vite"
+  "framework": "vite",
+  "nodeVersion": "20.x",
+  "env": {
+    "CI": "false"
+  }
 }
