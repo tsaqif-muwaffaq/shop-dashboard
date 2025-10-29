@@ -48,16 +48,15 @@ Proyek ini dibuat untuk menampilkan kemampuan dalam membangun aplikasi **React m
 
 src/
 │
-├── components/ # Komponen UI (Navbar, Card, Button, dsb)
+├── components/ # Komponen UI (Navbar, Card, dsb)
 ├── pages/ # Halaman utama (Login, Dashboard, ProductDetail)
 ├── contexts/ # Context API (ProductContext)
 ├── hooks/ # Custom hooks (opsional)
-├── assets/ # Gambar dan ikon
 ├── App.tsx # Routing utama aplikasi
+├── Index.tsx 
+├── Navbar.tsx
+├── PrivateRoute.tsx
 └── main.tsx # Entry point React
-
-yaml
-Copy code
 
 ---
 
@@ -111,7 +110,8 @@ Sistem user role (admin & user).
 👨‍💻 Pembuat
 Tsaqif Muwaffaq
 Frontend Developer & React Enthusiast
-
+link slide presentasi : https://gamma.app/docs/Presentasi-Proyek-Akhir-Reactjs-f96ilptrmirpsc5?mode=present#card-0pckpvbv9821utk
+link vidio presentasi : 
 
 🪄 Lisensi
 Proyek ini bersifat open-source dan dapat digunakan untuk keperluan pembelajaran atau pengembangan pribadi.
