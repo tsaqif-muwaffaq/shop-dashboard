@@ -4,6 +4,9 @@ Shop Dashboard adalah aplikasi web berbasis **React.js** yang berfungsi sebagai 
 Proyek ini dibuat untuk menampilkan kemampuan dalam membangun aplikasi **React modern** dengan routing, state management, dan UI framework yang responsif.
 
 🔗 **Demo:** [shop-dashboard-app-one.vercel.app](https://shop-dashboard-app-one.vercel.app/)
+## 🎞️ Presentasi Proyek
+
+[![slide presentasi](https://img.shields.io/badge/🎥_Lihat_Presentasi-Gamma.app-blue?style=for-the-badge)](https://gamma.app/docs/Presentasi-Proyek-Akhir-Reactjs-f96ilptrmirpsc5?mode=present#card-0pckpvbv9821utk)
 
 ---
 
