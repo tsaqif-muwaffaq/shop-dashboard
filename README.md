@@ -110,7 +110,9 @@ Sistem user role (admin & user).
 👨‍💻 Pembuat
 Tsaqif Muwaffaq
 Frontend Developer & React Enthusiast
-🔗 **link slide presentasi:**  (https://gamma.app/docs/Presentasi-Proyek-Akhir-Reactjs-f96ilptrmirpsc5?mode=present#card-0pckpvbv9821utk)
+🎥 **slide presentasi:**  
+👉 [Klik di sini untuk membuka presentasi proyek React.js](https://gamma.app/docs/Presentasi-Proyek-Akhir-Reactjs-f96ilptrmirpsc5?mode=present#card-0pckpvbv9821utk)
+
 link vidio presentasi : 
 
 🪄 Lisensi
