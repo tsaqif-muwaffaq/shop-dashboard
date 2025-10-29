@@ -6,7 +6,13 @@ Proyek ini dibuat untuk menampilkan kemampuan dalam membangun aplikasi **React m
 🔗 **Demo:** [shop-dashboard-app-one.vercel.app](https://shop-dashboard-app-one.vercel.app/)
 ## 🎞️ Presentasi Proyek
 
+## 🎞️ Presentasi Proyek
+
 [![slide presentasi](https://img.shields.io/badge/🎥_Lihat_Presentasi-Gamma.app-blue?style=for-the-badge)](https://gamma.app/docs/Presentasi-Proyek-Akhir-Reactjs-f96ilptrmirpsc5?mode=present#card-0pckpvbv9821utk)
+
+## 🎬 Video Penjelasan
+
+[![Tonton di YouTube](https://img.shields.io/badge/▶️_Tonton_Video-YouTube-red?style=for-the-badge)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
 
 ---
 
@@ -113,10 +119,6 @@ Sistem user role (admin & user).
 👨‍💻 Pembuat
 Tsaqif Muwaffaq
 Frontend Developer & React Enthusiast
-🎥 **slide presentasi:**  
-👉 [Klik di sini untuk membuka presentasi proyek React.js](https://gamma.app/docs/Presentasi-Proyek-Akhir-Reactjs-f96ilptrmirpsc5?mode=present#card-0pckpvbv9821utk)
-
-link vidio presentasi : 
 
 🪄 Lisensi
 Proyek ini bersifat open-source dan dapat digunakan untuk keperluan pembelajaran atau pengembangan pribadi.
