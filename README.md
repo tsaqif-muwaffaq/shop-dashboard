@@ -12,7 +12,7 @@ Proyek ini dibuat untuk menampilkan kemampuan dalam membangun aplikasi **React m
 
 ## 🎬 Video Penjelasan
 
-[![Tonton di YouTube](https://img.shields.io/badge/▶️_Tonton_Video-YouTube-red?style=for-the-badge)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+[![Tonton di YouTube](https://img.shields.io/badge/▶️_Tonton_Video-YouTube-red?style=for-the-badge)]([https://www.youtube.com/watch?v=YOUR_VIDEO_ID](https://youtu.be/4AU66gFnu7I?si=qafGlWtJqqvBNjuD))
 
 ---
 
