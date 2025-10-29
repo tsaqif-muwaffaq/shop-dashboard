@@ -55,17 +55,40 @@ Proyek ini dibuat untuk menampilkan kemampuan dalam membangun aplikasi **React m
 
 ## 📁 Struktur Folder
 
-src/
-│
-├── components/ # Komponen UI (Navbar, Card, dsb)
-├── pages/ # Halaman utama (Login, Dashboard, ProductDetail)
-├── contexts/ # Context API (ProductContext)
-├── hooks/ # Custom hooks (opsional)
-├── App.tsx # Routing utama aplikasi
-├── Index.tsx 
-├── Navbar.tsx
-├── PrivateRoute.tsx
-└── main.tsx # Entry point React
+product-dasboard/
+├─ dist/
+├─ node_modules/
+├─ src/
+│  ├─ components/
+│  │  ├─ ErrorBoundary.tsx
+│  │  ├─ ProductCard.tsx
+│  │  └─ ProductForm.tsx
+│  ├─ contexts/
+│  │  ├─ AuthContext.tsx
+│  │  ├─ ProductContext.tsx
+│  │  └─ ThemeContext.tsx
+│  ├─ hooks/
+│  │  ├─ useAuth.ts
+│  │ useProduct.ts
+│  ├─ pages/
+│  │  ├─ Dashboard.tsx
+│  │  ├─ Login.tsx
+│  │  ├─ ProductDetail.tsx
+│  └──└ Products.tsx
+│  └─ App.tsx
+│  └─ index.tsx
+│  └─ main.tsx
+│  └─ Navbar.tsx
+│  └─ PrivateRoute.tsx
+├──── styles.css
+├──── types.d.ts
+│ ├─ css/
+│ │ └─ styles.css # File CSS utama
+│ ├─ js/
+│ │ └─ script.js # File JavaScript utama
+│ └─ img/
+│ └─ setiarasa-logo-removebg-preview.png # Logo & gambar lainnya
+
 
 ---
 
